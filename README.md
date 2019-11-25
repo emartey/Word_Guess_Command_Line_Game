@@ -13,7 +13,7 @@ PS - The Lone Star state is the BEST state, so remember, don't mess with Texas ;
 
 Gameplay:
 
-![](CommandGuess.gif)
+![](/GIFS/CommandGuess.gif)
 
 ![](CommandGuess1.gif)
 

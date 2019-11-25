@@ -1,9 +1,9 @@
-# Word_Guess_Command_Line_Game
+# Word_Guess_/GIFS/Command_Line_Game
 
-Welcome to Word Guess Command Line Game! This game features major sports teams from the great state of Texas. Use your skills and knowhow to guess which team is listed. 
+Welcome to Word Guess /GIFS/Command Line Game! This game features major sports teams from the great state of Texas. Use your skills and knowhow to guess which team is listed. 
 Instructions:
 
-1. Open command terminal to start game
+1. Open /GIFS/command terminal to start game
 2. Start making your guesses 
 3. Win or lose, play again 
 
@@ -15,13 +15,13 @@ Gameplay:
 
 ![](/GIFS/CommandGuess.gif)
 
-![](CommandGuess1.gif)
+![](/GIFS/CommandGuess1.gif)
 
-![](CommandGuess2.gif)
+![](/GIFS/CommandGuess2.gif)
 
-![](CommandGuess3.gif)
+![](/GIFS/CommandGuess3.gif)
 
-![](CommandGuess4.gif)
+![](/GIFS/CommandGuess4.gif)
 
 
 

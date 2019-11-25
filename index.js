@@ -43,7 +43,7 @@ function playGame() {
         playAgain();
     }
     if (pickedWord) {
-        word = new Word(pickedWord);
+        word = new Word(pickedWord.toUpperCase());
         word.makeLetters();
         makeGuess();
     }
@@ -65,14 +65,18 @@ function makeGuess() {
     inquirer.prompt([
         {
             name: "guessedLetter",
-            message: word.update() +
+            message:
+                word.update() +
+                "\n" +
                 "\nGuess a letter!" +
-                "\nGuesses Left: " + guesses
+                "\n" +
+                "\nGuesses Left: " + guesses +
+                "\n"
         }
     ])
         .then(function (data) {
             word.letters.forEach(letter => {
-                letter.checkLetters(data.guessedLetter);
+                letter.checkLetters(data.guessedLetter.toUpperCase());
                 checker.push(letter.getCharacter());
             });
             if (guesses > 0 && checker.indexOf("_") !== -1) {

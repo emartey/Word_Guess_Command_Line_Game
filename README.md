@@ -15,11 +15,15 @@ Gameplay:
 
 ![](/GIFS/CommandGuess.gif)
 
+
 ![](/GIFS/CommandGuess1.gif)
+
 
 ![](/GIFS/CommandGuess2.gif)
 
+
 ![](/GIFS/CommandGuess3.gif)
+
 
 ![](/GIFS/CommandGuess4.gif)
 

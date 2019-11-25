@@ -114,7 +114,9 @@ function playAgain() {
             if (data.continue === "Yes") {
                 init2();
             } else {
+                console.log("\n");
                 console.log("Thanks for playing!");
+                console.log("\n");
             }
         });
 }

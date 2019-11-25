@@ -1,4 +1,4 @@
-# Word_Guess_/GIFS/Command_Line_Game
+# Word_Guess_Command_Line_Game
 
 Welcome to Word Guess /GIFS/Command Line Game! This game features major sports teams from the great state of Texas. Use your skills and knowhow to guess which team is listed. 
 Instructions:

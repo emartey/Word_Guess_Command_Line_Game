@@ -11,4 +11,17 @@ GOOD LUCK :)
 
 PS - The Lone Star state is the BEST state, so remember, don't mess with Texas ;)
 
+Gameplay:
+
 ![](CommandGuess.gif)
+
+![](CommandGuess1.gif)
+
+![](CommandGuess2.gif)
+
+![](CommandGuess3.gif)
+
+![](CommandGuess4.gif)
+
+
+

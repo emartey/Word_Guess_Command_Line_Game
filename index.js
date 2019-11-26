@@ -75,7 +75,7 @@ function makeGuess() {
         }
     ])
         .then(function (data) {
-            word.letters.forEach(letter => {
+            word.letters.forEach(function (letter) {
                 letter.checkLetters(data.guessedLetter.toUpperCase());
                 checker.push(letter.getCharacter());
             });
